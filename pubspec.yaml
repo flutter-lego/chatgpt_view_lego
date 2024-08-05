@@ -1,7 +1,7 @@
 name: chatgpt_view_lego
-description: "lego is all you need"
+description: "beautiful chatgpt view by June"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/chatgpt_view_lego
 
 version: 1.0.0
 
@@ -16,6 +16,7 @@ dependencies:
   modal_bottom_sheet: #@add
   gap: #@add
   flutter_svg: #@add
+  keyboard_attachable: #@add
 
 dev_dependencies:
   flutter_test:

@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NvbRMDhqZj)
 [![](https://img.shields.io/badge/KakaoTalk-Join%20Room-FEE500?style=for-the-badge&logo=kakao)](https://open.kakao.com/o/gEwrffbg)
 # chatgpt_view_lego
-[//]: # (<img src="https://github.com/user-attachments/assets/e7629537-915f-4255-aaba-d409e7c0dc30" width="200" alt="toss_intro_page_lego">)
+<img src="https://github.com/user-attachments/assets/757be8fb-0bbb-485a-bdbc-d2dc4a7ce615" width="200" alt="toss_intro_page_lego">
 
 ## Installation
 1. please enter the following command in the terminal to install the CLI:
